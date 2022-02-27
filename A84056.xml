@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epulæ Thyesteæ: or, The thanksgiving-dinner: where the Devill finds all, meat, cooks, guests, &amp;c. Together with the city present. Also a short grace after a long dinner. And a God-speed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84056</idno>
+            <idno type="STC">Wing E3183</idno>
+            <idno type="STC">Thomason E559_4</idno>
+            <idno type="STC">ESTC R201948</idno>
+            <idno type="EEBO-CITATION">99862426</idno>
+            <idno type="PROQUEST">99862426</idno>
+            <idno type="VID">165173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165173)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E559[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Epulæ Thyesteæ: or, The thanksgiving-dinner: where the Devill finds all, meat, cooks, guests, &amp;c. Together with the city present. Also a short grace after a long dinner. And a God-speed.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse satire, in reference to the execution of Charles I and others.</note>
+                  <note>Annotation on Thomason copy: "June 8th 1649"; 1648 crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165173:1" rendition="simple:additions"/>
+            <p>
+               <hi>EP<g ref="char:V">Ʋ</g>LAE THYESTEAE:</hi> OR, The THANKSGIVING-DINNER: WHERE The Devill finds all, Meat, Cooks, Gueſts, &amp;c.</p>
+            <p>TOGETHER WITH THE CITY <hi>PRESENT.</hi>
+            </p>
+            <p>ALSO A Short <hi>GRACE</hi> after a Long <hi>Dinner.</hi> AND A GOD-SPEED.</p>
+            <p>
+               <hi>LONDON.</hi> Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:165173:2"/>
+            <pb n="1" facs="tcp:165173:2"/>
+            <head>
+               <hi>AEP<g ref="char:V">Ʋ</g>LAE THYESTEAE:</hi> OR, The THANKSGIVING-DINNER: <hi>WHERE</hi> The Devill finds all, Meat, Cooks, Gueſts, &amp;c.</head>
+            <lg>
+               <l>ENjoy the Angry Powers: Do, Feaſt away</l>
+               <l>The ſenſe of your high Crimes, &amp; <hi>Judgment-day:</hi>
+               </l>
+               <l>Mix your Frontiniack with Lethêan Drops,</l>
+               <l>And Crowne your guilty Heads with Poppy tops.</l>
+               <l>Errour hath ſeiz'd, Oblivion ſeale your Soules;</l>
+               <l>And as your Sinnes are deep, ſo be your Bowles.</l>
+               <l>Let the Starv'd <hi>Country</hi> ſee your notous Feaſt,</l>
+               <l>Neither with <hi>Grace,</hi> nor <hi>Peace,</hi> nor <hi>Conſcience</hi> bleſt,</l>
+            </lg>
+            <lg>
+               <l>Let ſtupid <hi>England</hi> ſee the Goblet Crown'd</l>
+               <l>Wherein is quaff'd their <hi>Ninety Thouſand Pound</hi>
+               </l>
+               <l>
+                  <hi>Per Menſem:</hi> There we may thoſe Epicures ſee</l>
+               <l>Who've put the Kingdome to an <hi>Atrophie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>It is a <hi>Collar</hi> Day, <hi>Saint-Traytors</hi> Day,</l>
+               <l>Wherein that Pſeudo-Martyr <hi>Goodwyn</hi> may,</l>
+               <l>Inſpir'd by <hi>Lucifer,</hi> give Thanks; and can</l>
+               <l>Invert the Words of out-done <hi>Iulian,</hi>
+               </l>
+               <pb n="2" facs="tcp:165173:3"/>
+               <l>(Puny Apoſtate, He! oth'Lower Roome!)</l>
+               <l>And ſay, <hi>The Galilaeans overcome:</hi>
+               </l>
+               <l>Yet dare He Text it from the <hi>Bible,</hi> Than</l>
+               <l>When he both Prayes and Preaches <hi>Alchoran.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There <hi>Peters,</hi> the <hi>Denyer</hi> (nay, 'tis ſaid</l>
+               <l>He, that (Diſguis'd) <hi>Cut off</hi> his <hi>Masters</hi> Head)</l>
+               <l>That Godly Pidgeon of Apoſtacy,</l>
+               <l>Does buzze about his Anti-Monarchy:</l>
+               <l>His Scaffold-Doctrines; and ſuch murdering ſtuffe,</l>
+               <l>Which yet Wounds nought but the affrighted Ruffe</l>
+               <l>Of the Laps'd <hi>Aldermen;</hi> who have made good</l>
+               <l>
+                  <note n="*" place="margin">
+                     <hi>E. of</hi> Strafford <hi>was accuſed for ſaying,</hi> [It would never be well with <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> till halfe a dozen Aldermen were hang'd.]</note> 
+                  <hi>Strafford's</hi> darke Maxim, now well underſtood:</l>
+               <l>"Twill ne'r be well with <hi>England,</hi> till we ſee</l>
+               <l>"The Complement of <hi>Strafford's</hi> Propheſie:</l>
+               <l>"The <hi>truth</hi> is ſtill the ſame, the <hi>number</hi> more,</l>
+               <l>"<hi>Fifteen</hi> will but ſerve <hi>now; Six</hi> would <hi>before.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sermon</hi> being done and <hi>Scripture,</hi> the <hi>Ruffes</hi> fall</l>
+               <l>Fore <hi>CRUMWELL Bell,</hi> and <hi>Dragon GENERALL,</hi>
+               </l>
+               <l>
+                  <hi>Long Live CUSTODES;</hi> that's the Cry. What's He?</l>
+               <l>In <hi>Engliſh</hi> thus, <hi>Long Live our SLAVERY.</hi>
+               </l>
+               <l>
+                  <hi>Cuſtodes</hi> is the ſtyle, which <hi>Pluto</hi> lent</l>
+               <l>In ſpeciall Grace unto the <hi>Parliament,</hi>
+               </l>
+               <l>Puzled what Title to aſſume: No ſhame;</l>
+               <l>Father and Sonnes may go by the ſame Name.</l>
+               <l>For Theſe this Feaſt is kept, while Orphans cry,</l>
+               <l>And <hi>I</hi> and <hi>Lilburne</hi> are in <hi>Custody.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Anthropophagi</hi> are ſet: They Feed,</l>
+               <l>"Let them <hi>Feed</hi> on, 'twill be their Time to <hi>Bleed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Firſt Courſe is <hi>Biſhops Lands;</hi> A ſtately Diſh,</l>
+               <l>Quoth <hi>OLIVER,</hi> and <hi>Cook'd</hi> unto my Wiſh.</l>
+               <pb n="3" facs="tcp:165173:3"/>
+               <l>Next, in a Charger, <hi>Deanes</hi> and <hi>Chapters</hi> are</l>
+               <l>Plac'd againſt <hi>Martyn;</hi> 'Tis <hi>Mar-prelates</hi> Fare.</l>
+               <l>Reach that great <hi>Oleo</hi> to the <hi>Generall,</hi>
+               </l>
+               <l>Th' Eſtates of <hi>poore Delinquents;</hi> Give't him All.</l>
+               <l>
+                  <hi>Lenthall</hi> and <hi>St. Iohns,</hi> both, are feeding hard on</l>
+               <l>A Glorious Meſſe; O! 'tis a generall <hi>Pardon.</hi>
+               </l>
+               <l>
+                  <hi>Prideaux</hi> is Late come in, and had almoſt</l>
+               <l>Staying for Packet-money, kiſs'd the Poſt.</l>
+               <l>
+                  <hi>Mildmay</hi> is for his Didledam's; and ownes</l>
+               <l>No Fare ſo choice, as that of <hi>pretious Stones.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>"<hi>Goodwyn</hi> and <hi>Peters</hi> at a Table ſit,</l>
+               <l>"Eating <hi>Sequeſtred Livings</hi> at a bit.</l>
+            </lg>
+            <lg>
+               <l>But, O! <hi>Cuſtodes</hi> raile upon the Cookes</l>
+               <l>Full ſore; The <hi>King's, Queen's, Prince's</hi> Lands &amp; <hi>Duke's</hi>
+               </l>
+               <l>Are not enough, their ſtomachs wamble; they</l>
+               <l>Feare Their <hi>Digeſtion,</hi> that They will not <hi>ſtay;</hi>
+               </l>
+               <l>A filthy <hi>Norman Hogo</hi> of a <hi>Nullum</hi>
+               </l>
+               <l>
+                  <hi>Occurrit Regi,</hi> does like <hi>Stibium</hi> pull 'um.</l>
+               <l>The <hi>Iudges</hi> have, in skins of Parchment, boyl'd</l>
+               <l>A <hi>Magna-Charta</hi>-Pudding; which was ſpoyl'd</l>
+               <l>And Broke it i'th' Seithing; that nor <hi>Wild,</hi> nor <hi>Pheaſant</hi>
+               </l>
+               <l>Could find one Reaſon in't, or ought that's pleaſant.</l>
+               <l>
+                  <hi>Mick Oldſworth</hi> in his <hi>Independent</hi> Clothes</l>
+               <l>Is feeding <hi>PEMBROKE</hi> with a Broth of <hi>Oaths.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>"<hi>BRADSHAW</hi> ſurveys the <hi>Diſhes</hi> and the <hi>Meat,</hi>
+               </l>
+               <l>"And likes All Well; but yet—<hi>He dares not Eate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now, for a <hi>Cheeſe</hi> and for Digeſtions ſake</l>
+               <l>The SEALE is brought; and <hi>Atkins</hi> gives a <hi>Cake.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They're <hi>Fill'd;</hi> not <hi>Satisfi'd:</hi> They're now for <hi>Wine.</hi>
+               </l>
+               <l>O for a Draught, ſuch as black <hi>Catiline</hi>
+               </l>
+               <pb n="4" facs="tcp:165173:4"/>
+               <l>Drank to be-ranſack'd <hi>Rome!</hi> Heark! <hi>Ner<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s</hi> Song,</l>
+               <l>Whil'ſt the Accurſed Health doth paſſe along.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Viner</hi> the Goblet holds, and <hi>Peters</hi> Fills;</l>
+               <l>And <hi>Goodwyn</hi> Conſecrates; and CRVMWELL ſwils:</l>
+               <l>The Draught is <hi>CHARLS</hi> his <hi>bloud,</hi> a crimſon <hi>wine,</hi>
+               </l>
+               <l>The Health's <hi>[Confuſion to the Royall Line.]</hi> Hall,</l>
+               <l>The Health goes <hi>round, Round</hi> through the Curſed</l>
+               <l>"And no Man ſees, THE HAND UPON THE WALL.</l>
+            </lg>
+         </div>
+         <div type="poems">
+            <head>THE CITY <hi>PRESENT.</hi>
+            </head>
+            <lg>
+               <head>A <hi>Baſon</hi> and <hi>Ewre</hi> to the <hi>Generall,</hi> of pure Gold.</head>
+               <l>ACcept (Black Sir) this Glorious <hi>Ewre,</hi> where we</l>
+               <l>Preſent, in <hi>Beaten Gold, like</hi> Loyalty:</l>
+               <l>We doe Confeſſe you high and Fortunate,</l>
+               <l>Or elſe this Gift had been a <hi>Maſſy</hi>-Plate.</l>
+               <l>The <hi>Baſon</hi> is Antique, a richer ſhow</l>
+               <l>Than <hi>that</hi> the <hi>Jewes</hi> on <hi>Pilate</hi> did beſtow.</l>
+               <l>
+                  <hi>Your</hi> ſervices are not much leſſe; It ſtands</l>
+               <l>Ready to <hi>Waſh</hi> Your <hi>Excellent</hi>-Murth'rous <hi>Hands.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:165173:4"/>
+               <head>A <hi>Baſon</hi> and <hi>Ewre</hi> to the <hi>Lieut. Gen:</hi> of pure Silver.</head>
+               <l>GReat Sir, that you may know we have a ſenſe</l>
+               <l>Of your high Parts, and <hi>candid</hi> Innocence,</l>
+               <l>With Pureſt <hi>Silver</hi> we preſent thoſe Hands</l>
+               <l>Made to bring Peace and Bleſſings on all Lands.</l>
+               <l>
+                  <hi>Ireland</hi> expects your <hi>Soveraigne Face;</hi> and cries,</l>
+               <l>Come <hi>Oliver,</hi> or bleeding <hi>Ireland</hi> Dies.</l>
+            </lg>
+            <lg>
+               <l>But as you paſſe by <hi>Windſor,</hi> if your Noſe,</l>
+               <l>Comming neer <hi>CHARLS</hi> his Corps, ſhould ought diſ<g ref="char:EOLhyphen"/>cloſe</l>
+               <l>Oh! drop the Bloud in <hi>this;</hi> for 'twas our Plate,</l>
+               <l>(From <hi>Bodkins</hi> unto <hi>Baſons</hi>) wrought His Fate.</l>
+            </lg>
+            <lg>
+               <head>A ſhort <hi>Grace,</hi> after a long Dinner.</head>
+               <l>WE thank thee <hi>Oxford,</hi> thou haſt given us <hi>Grace,</hi>
+               </l>
+               <l>And made us Doctors of thy <hi>learned</hi> Race.</l>
+               <l>We thank thee <hi>London,</hi> eke, each Citizen,</l>
+               <l>For Ye have made us more, Great <hi>Gifted</hi> Men.</l>
+            </lg>
+            <lg>
+               <head>The God-ſpeed.</head>
+               <l>"Go on, impoſe upon the World, and Awe</l>
+               <l>"All, till the <hi>SECOND</hi> comes and gives you <hi>Law.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
